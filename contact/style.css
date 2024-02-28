@@ -46,6 +46,7 @@ nav a:hover {
 
 .contact-info a {
   color: inherit; /*Add a color for the Twitter link*/
+  text-decoration: none;
 }
 .contact-message {
   display: flex;
